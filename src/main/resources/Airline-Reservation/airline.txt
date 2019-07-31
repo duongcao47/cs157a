@@ -1,0 +1,11 @@
+1	Alaska Airlines	Seatle	1932-01-01	ASA
+2	Allegiant Air	 Las Vegas	1997-01-01	AAY
+3	American Airlines	Dallas	1926-01-01	AAL
+4	Delta Airlines	Atlanta	1924-01-01	DAL
+5	Frontier Airlines	Denver	1994-01-01	FFT
+6	Hawaiian Airlines	Honolulu	1929-01-01	HAL
+7	JetBlue Airways	New York	1998-01-01	JBU
+8	Southwest Airlines	Dallas	1967-01-01	SWA
+9	Spirit Airlines	Fort Lauderdale	1980-01-01	NKS
+10	Sun Country Airlines	St. Paul	1982-01-01	SCX
+11	United Airlines	Chicago	1926-01-01	UAL

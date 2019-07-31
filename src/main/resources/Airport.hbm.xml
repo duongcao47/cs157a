@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="edu.sjsu.cs157a.models.Airport" table="Airport">
+		<meta attribute="class-description">
+			This class contains airport details.
+		</meta>
+		
+		<id name="apID" type="int" column="apID">
+			<generator class="increment"></generator>  
+		</id>
+		
+		<natural-id>
+			<property name="name" column="name" type="string"/>
+		</natural-id>
+		
+		<property name="city" column="city" type="string"/>
+		<property name="country" column="country" type="string"/>
+		<property name="iata" column="iata" type="string"/>
+		<property name="icao" column="icao" type="string"/>
+		<property name="lat" column="lat" type="double"/>
+		<property name="lng" column="lng" type="double"/>
+		<property name="altitude" column="altitude" type="int"/>
+		<property name="tzOffSet" column="tzOffSet" type="int"/>
+		<property name="dst" column="dst" type="string"/>
+		<property name="tz" column="tz" type="string"/>
+		<property name="type" column="type" type="string"/>
+		<property name="source" column="source" type="string"/>
+	
+	</class>
+</hibernate-mapping>

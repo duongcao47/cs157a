@@ -1,0 +1,6 @@
+edu/sjsu/cs157a/DAOs/BaseTest.class
+edu/sjsu/cs157a/DAOs/UserDAOTest.class
+edu/sjsu/cs157a/DAOs/AirportDAOTest.class
+edu/sjsu/cs157a/DAOs/AirlineDAOTest.class
+edu/sjsu/cs157a/DAOs/FlightDAOTest.class
+edu/sjsu/cs157a/DAOs/PlaneDAOTest.class

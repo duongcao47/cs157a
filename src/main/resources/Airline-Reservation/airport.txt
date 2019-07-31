@@ -1,0 +1,100 @@
+2925	China Lake Naws (Armitage Field) Airport	China Lake	United States	N	KNID	35.685398	-117.692001	2283	-8	A	America/Los_Angeles	airport	OurAirports
+3057	Teterboro Airport	Teterboro	United States	TEB	KTEB	40.850101	-74.060799	9	-5	A	America/New_York	airport	OurAirports
+5411	Henderson Executive Airport	Henderson	United States	HSH	KHND	35.972801	-115.134003	2492	-8	A	America/Los_Angeles	airport	OurAirports
+4883	Lake Cumberland Regional Airport	Somerset	United States	SME	KSME	37.053398	-84.615898	927	-5	A	America/New_York	airport	OurAirports
+3425	Piedmont Triad International Airport	Greensboro	United States	GSO	KGSO	36.097801	-79.937302	925	-5	A	America/New_York	airport	OurAirports
+3092	Sloulin Field International Airport	Williston	United States	ISN	KISN	48.177898	-103.641998	1982	-6	A	America/Chicago	airport	OurAirports
+3433	Blue Grass Airport	Lexington KY	United States	LEX	KLEX	38.036499	-84.605904	979	-5	A	America/New_York	airport	OurAirports
+3652	Bemidji Regional Airport	Bemidji	United States	BJI	KBJI	47.509399	-94.933701	1391	-6	A	America/Chicago	airport	OurAirports
+3143	Chico Municipal Airport	Chico	United States	CIC	KCIC	39.795399	-121.858002	240	-8	A	America/Los_Angeles	airport	OurAirports
+3614	La Junta Municipal Airport	La Junta	United States	N	KLHX	38.049702	-103.509003	4229	-7	A	America/Denver	airport	OurAirports
+4835	Northeast Florida Regional Airport	St. Augustine Airport	United States	UST	KSGJ	29.9592	-81.339798	10	-5	A	America/New_York	airport	OurAirports
+3109	McGhee Tyson Airport	Knoxville	United States	TYS	KTYS	35.811001	-83.994003	981	-5	A	America/New_York	airport	OurAirports
+3061	Kenai Municipal Airport	Kenai	United States	ENA	PAEN	60.573101	-151.244995	99	-9	A	America/Anchorage	airport	OurAirports
+2855	Fort Yukon Airport	Fort Yukon	United States	FYU	PFYU	66.571503	-145.25	433	-9	A	America/Anchorage	airport	OurAirports
+4986	Kongiganak Airport	Kongiganak	United States	KKH	PADY	59.9608	-162.880997	30	-9	A	America/Anchorage	airport	OurAirports
+5206	Delta Municipal Airport	Delta	United States	DTA	KDTA	39.3806	-112.508003	4759	-7	A	America/Denver	airport	OurAirports
+2852	Bettles Airport	Bettles	United States	BTT	PABT	66.913902	-151.529007	647	-9	A	America/Anchorage	airport	OurAirports
+3449	Greenville Spartanburg International Airport	Greenville	United States	GSP	KGSP	34.895699	-82.218903	964	-5	A	America/New_York	airport	OurAirports
+3462	University of Illinois Willard Airport	Champaign	United States	CMI	KCMI	40.0392	-88.278099	755	-6	A	America/Chicago	airport	OurAirports
+5575	Hilton Head Airport	Hilton Head Island	United States	HHH	KHXD	32.2244	-80.697502	19	-5	A	America/New_York	airport	OurAirports
+5250	DeKalb Peachtree Airport	Atlanta	United States	PDK	KPDK	33.875599	-84.302002	1003	-5	A	America/New_York	airport	OurAirports
+4908	Emmonak Airport	Emmonak	United States	EMK	PAEM	62.786098	-164.490997	13	-9	A	America/Anchorage	airport	OurAirports
+3705	Lehigh Valley International Airport	Allentown	United States	ABE	KABE	40.6521	-75.440804	393	-5	A	America/New_York	airport	OurAirports
+5259	Northwest Florida Beaches International Airport	Panama City	United States	ECP	KECP	30.357106	-85.795414	69	-6	A	America/Chicago	airport	OurAirports
+4886	Dickinson Theodore Roosevelt Regional Airport	Dickinson	United States	DIK	KDIK	46.797401	-102.802002	2592	-7	A	America/Denver	airport	OurAirports
+3424	Asheville Regional Airport	Asheville	United States	AVL	KAVL	35.436199	-82.541801	2165	-5	A	America/New_York	airport	OurAirports
+5549	Windham Airport	Willimantic	United States	N	KIJD	41.743999	-72.180298	247	-5	A	America/New_York	airport	OurAirports
+4700	Togiak Airport	Togiak Village	United States	TOG	PATG	59.052799	-160.397003	21	-9	A	America/Anchorage	airport	OurAirports
+3035	Lihue Airport	Lihue	United States	LIH	PHLI	21.976	-159.339005	153	-10	N	Pacific/Honolulu	airport	OurAirports
+3134	Augusta State Airport	Augusta	United States	AUG	KAUG	44.320599	-69.797302	352	-5	A	America/New_York	airport	OurAirports
+3156	Fort Worth Meacham International Airport	Fort Worth	United States	FTW	KFTW	32.819801	-97.362396	710	-6	A	America/Chicago	airport	OurAirports
+3138	Molokai Airport	Molokai	United States	MKK	PHMK	21.152901	-157.095993	454	-10	N	Pacific/Honolulu	airport	OurAirports
+3294	Louis Armstrong New Orleans International Airport	New Orleans	United States	MSY	KMSY	29.993401	-90.258003	4	-6	A	America/Chicago	airport	OurAirports
+3493	Rapid City Regional Airport	Rapid City	United States	RAP	KRAP	44.0453	-103.056999	3204	-7	A	America/Denver	airport	OurAirports
+5614	Wellington Municipal Airport	Wellington	United States	N	KEGT	37.323601	-97.388298	1277	-6	A	America/Chicago	airport	OurAirports
+2902	Spokane International Airport	Spokane	United States	GEG	KGEG	47.6199	-117.533997	2376	-8	A	America/Los_Angeles	airport	OurAirports
+4872	Rosecrans Memorial Airport	Rosecrans	United States	STJ	KSTJ	39.7719	-94.909698	826	-6	A	America/Chicago	airport	OurAirports
+4916	Kwethluk Airport	Kwethluk	United States	KWT	PFKW	60.790298	-161.444	25	-9	A	America/Anchorage	airport	OurAirports
+4961	Selawik Airport	Selawik	United States	WLK	PASK	66.600098	-159.985992	17	-9	A	America/Anchorage	airport	OurAirports
+2981	Hickory Regional Airport	Hickory	United States	HKY	KHKY	35.7411	-81.389503	1190	-5	A	America/New_York	airport	OurAirports
+4981	Quinhagak Airport	Quinhagak	United States	KWN	PAQH	59.7551	-161.845	42	-9	A	America/Anchorage	airport	OurAirports
+5568	LaGrange Callaway Airport	LaGrange	United States	LGC	KLGC	33.0089	-85.072601	693	-5	A	America/New_York	airport	OurAirports
+3522	Tri-Cities Regional TN/VA Airport	BRISTOL	United States	TRI	KTRI	36.475201	-82.407401	1519	-5	A	America/New_York	airport	OurAirports
+4816	Gary Chicago International Airport	Gary	United States	GYY	KGYY	41.616299	-87.412804	591	-6	A	America/Chicago	airport	OurAirports
+4054	Southwest Wyoming Regional Airport	Rock Springs	United States	RKS	KRKS	41.5942	-109.065001	6764	-7	A	America/Denver	airport	OurAirports
+3214	North Central State Airport	Smithfield	United States	SFZ	KSFZ	41.920799	-71.491402	441	-5	A	America/New_York	airport	OurAirports
+3019	Indianapolis International Airport	Indianapolis	United States	IND	KIND	39.7173	-86.294403	797	-5	A	America/New_York	airport	OurAirports
+5207	Richfield Municipal Airport	Richfield	United States	N	KRIF	38.736401	-112.098999	5301	-7	A	America/Denver	airport	OurAirports
+3151	Abilene Regional Airport	Abilene	United States	ABI	KABI	32.411301	-99.6819	1791	-6	A	America/Chicago	airport	OurAirports
+5290	Monument Valley Airport	Monument Valley	United States	GMV	UT25	37.016701	-110.200996	5192	-7	U	America/Denver	airport	OurAirports
+4040	Lewistown Municipal Airport	Lewistown	United States	LWT	KLWT	47.049301	-109.467003	4170	-7	A	America/Denver	airport	OurAirports
+4964	Golovin Airport	Golovin	United States	GLV	PAGL	64.550499	-163.007004	59	-9	A	America/Anchorage	airport	OurAirports
+5468	Portland Troutdale Airport	Troutdale	United States	TTD	KTTD	45.5494	-122.401001	39	-8	A	America/Los_Angeles	airport	OurAirports
+4020	Houghton County Memorial Airport	Hancock	United States	CMX	KCMX	47.1684	-88.489098	1095	-5	A	America/New_York	airport	OurAirports
+3063	Niagara Falls International Airport	Niagara Falls	United States	IAG	KIAG	43.1073	-78.946198	589	-5	A	America/New_York	airport	OurAirports
+5254	Napa County Airport	Napa	United States	APC	KAPC	38.2132	-122.280998	35	-8	A	America/Los_Angeles	airport	OurAirports
+3529	Glacier Park International Airport	Kalispell	United States	FCA	KGPI	48.310501	-114.255997	2977	-7	A	America/Denver	airport	OurAirports
+3189	Palmdale Regional/USAF Plant 42 Airport	Palmdale	United States	PMD	KPMD	34.629398	-118.084999	2543	-8	A	America/Los_Angeles	airport	OurAirports
+4657	Shishmaref Airport	Shishmaref	United States	SHH	PASH	66.249604	-166.089112	12	-9	A	America/Anchorage	airport	OurAirports
+4659	Noatak Airport	Noatak	United States	WTK	PAWN	67.566101	-162.975006	88	-9	A	America/Anchorage	airport	OurAirports
+3107	Rickenbacker International Airport	Columbus	United States	LCK	KLCK	39.813801	-82.927803	744	-5	A	America/New_York	airport	OurAirports
+4012	Raleigh County Memorial Airport	Beckley	United States	BKW	KBKW	37.7873	-81.124199	2504	-5	A	America/New_York	airport	OurAirports
+4965	Teller Airport	Teller	United States	TLA	PATE	65.240402	-166.339005	294	-9	A	America/Anchorage	airport	OurAirports
+6257	Meade Municipal Airport	Meade	United States	N	KMEJ	37.276901	-100.356003	2529	-5	A	N	airport	OurAirports
+3234	Wallops Flight Facility Airport	Wallops Island	United States	WAL	KWAL	37.940201	-75.4664	40	-5	A	America/New_York	airport	OurAirports
+6287	Peter O Knight Airport	Tampa	United States	TPF	KTPF	27.9156	-82.449303	8	-5	U	N	airport	OurAirports
+2982	Albert Whitted Airport	St. Petersburg	United States	SPG	KSPG	27.7651	-82.626999	7	-5	A	America/New_York	airport	OurAirports
+4323	Tri Cities Airport	Pasco	United States	PSC	KPSC	46.264702	-119.119003	410	-8	A	America/Los_Angeles	airport	OurAirports
+5574	Darlington County Airport	Darlington	United States	N	KUDG	34.449401	-79.890098	192	-5	A	America/New_York	airport	OurAirports
+5501	Dallas Executive Airport	Dallas	United States	RBD	KRBD	32.680901	-96.868202	660	-6	A	America/Chicago	airport	OurAirports
+3521	Montgomery Regional (Dannelly Field) Airport	MONTGOMERY	United States	MGM	KMGM	32.300598	-86.393997	221	-6	A	America/Chicago	airport	OurAirports
+3657	Charles B. Wheeler Downtown Airport	Kansas City	United States	MKC	KMKC	39.123199	-94.592796	759	-6	A	America/Chicago	airport	OurAirports
+5413	Henry Tift Myers Airport	Tifton	United States	TMA	KTMA	31.429001	-83.488503	355	-5	A	America/New_York	airport	OurAirports
+2900	East Texas Regional Airport	Longview	United States	GGG	KGGG	32.383999	-94.711502	365	-6	A	America/Chicago	airport	OurAirports
+4011	Western Neb. Rgnl/William B. Heilig Airport	Scottsbluff	United States	BFF	KBFF	41.874001	-103.596001	3967	-7	A	America/Denver	airport	OurAirports
+3494	Mc Clellan-Palomar Airport	Carlsbad	United States	CLD	KCRQ	33.1283	-117.279999	331	-8	A	America/Los_Angeles	airport	OurAirports
+4907	Newport Municipal Airport	Newport	United States	ONP	KONP	44.580399	-124.057999	160	-8	A	America/Los_Angeles	airport	OurAirports
+3231	Homestead ARB Airport	Homestead	United States	HST	KHST	25.4886	-80.383598	5	-5	A	America/New_York	airport	OurAirports
+3043	Merle K (Mudhole) Smith Airport	Cordova	United States	CDV	PACV	60.491798	-145.477997	54	-9	A	America/Anchorage	airport	OurAirports
+6353	Hollister Municipal Airport	Hollister	United States	HLI	KCVH	36.893299	-121.410004	230	-8	A	N	airport	OurAirports
+4057	Sheridan County Airport	Sheridan	United States	SHR	KSHR	44.769199	-106.980003	4021	-7	A	America/Denver	airport	OurAirports
+3312	Florence Regional Airport	Florence	United States	FLO	KFLO	34.185398	-79.7239	146	-5	A	America/New_York	airport	OurAirports
+5560	Centre-Piedmont-Cherokee County Regional Airport	Centre	United States	N	KPYP	34.089977	-85.610069	596	-6	A	America/Chicago	airport	OurAirports
+4650	Gambell Airport	Gambell	United States	GAM	PAGM	63.7668	-171.733002	27	-9	A	America/Anchorage	airport	OurAirports
+4024	Elko Regional Airport	Elko	United States	EKO	KEKO	40.824902	-115.792	5140	-8	A	America/Los_Angeles	airport	OurAirports
+4065	Worland Municipal Airport	Worland	United States	WRL	KWRL	43.965698	-107.950996	4227	-7	A	America/Denver	airport	OurAirports
+5409	Lee C Fine Memorial Airport	Kaiser Lake Ozark	United States	AIZ	KAIZ	38.096001	-92.5495	869	-6	A	America/Chicago	airport	OurAirports
+5478	Prineville Airport	Prineville	United States	PRZ	KS39	44.286999	-120.903999	3250	-8	A	America/Los_Angeles	airport	OurAirports
+4889	Alliance Municipal Airport	Alliance	United States	AIA	KAIA	42.0532	-102.804001	3931	-7	A	America/Denver	airport	OurAirports
+3003	"Warren ""Bud"" Woods Palmer Municipal Airport"	Palmer	United States	PAQ	PAAQ	61.594898	-149.08901	242	-9	A	America/Anchorage	airport	OurAirports
+4648	Anvik Airport	Anvik	United States	ANV	PANV	62.646702	-160.190994	291	-9	A	America/Anchorage	airport	OurAirports
+3218	Barking Sands Airport	Barking Sands	United States	BKH	PHBK	22.0228	-159.785004	23	-10	A	Pacific/Honolulu	airport	OurAirports
+2906	Acadiana Regional Airport	Louisiana	United States	ARA	KARA	30.0378	-91.883904	24	-6	A	America/Chicago	airport	OurAirports
+5401	Mobile Airport	Mobile	United States	N	1AZ0	33.1119	-112.268997	1261	-7	U	America/Phoenix	airport	OurAirports
+5569	Baldwin County Regional Airport	Milledgeville	United States	N	KMLJ	33.154202	-83.240701	385	-5	A	America/New_York	airport	OurAirports
+5295	Lakeland Linder International Airport	Lakeland	United States	LAL	KLAL	27.988899	-82.018602	142	-5	A	America/New_York	airport	OurAirports
+4977	False Pass Airport	False Pass	United States	KFP	PAKF	54.847401	-163.410004	20	-9	A	America/Anchorage	airport	OurAirports
+3300	John Wayne Airport-Orange County Airport	Santa Ana	United States	SNA	KSNA	33.675701	-117.867996	56	-8	A	America/Los_Angeles	airport	OurAirports
+2856	Sparrevohn LRRS Airport	Sparrevohn	United States	SVW	PASV	61.097401	-155.574005	1585	-9	A	America/Anchorage	airport	OurAirports
+3173	Cape May County Airport	Wildwood	United States	WWD	KWWD	39.008499	-74.908302	23	-5	A	America/New_York	airport	OurAirports

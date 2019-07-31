@@ -1,0 +1,10 @@
+1	Airbus	A220	141
+2	Airbus	A320	206
+3	Airbus	A330	287
+4	Airbus	A350	366
+5	Airbus	A380	544
+6	Boeing	737 NG	188
+7	Boeing	737 MAX	188
+8	Boeing	747-8	410
+9	Boeing	777	400
+10	Boeing	787	330

@@ -11,4 +11,4 @@ the project now requires that the .txt files in src/main/resources/Airline-Reser
 be in the directory specified by mysql 'datadir' to see where this directory is <br/>
 open a mysql shell and run the following command: <br/>
 
-SHOW VARIABLES WHERE Variable_Name LIKE "%dir"; <br/># cs157a
+SHOW VARIABLES WHERE Variable_Name LIKE "%dir"; <br/>

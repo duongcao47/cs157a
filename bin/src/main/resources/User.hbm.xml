@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="edu.sjsu.cs157a.models.User" table="User">
+		<meta attribute="class-description">
+			This class contains user details.
+		</meta>
+		
+		<id name="uID" type="int" column="uID">
+			<generator class="increment"></generator>  
+		</id>
+		
+		<property name="fname" column="fname" type="string"/>
+		<property name="lname" column="lname" type="string"/>
+		<property name="email" column="email" type="string"/>
+		<property name="password" column="password" type="string"/>
+		<property name="birthDate" column="birthDate" type="date"/>
+		<property name="age" column="age" type="int"/>
+		<property name="isAdmin" column="isAdmin" type="boolean"/>
+	
+	</class>
+</hibernate-mapping>

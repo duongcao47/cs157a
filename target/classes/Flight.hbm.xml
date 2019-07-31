@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="edu.sjsu.cs157a.models.Flight" table="flight">
+		<meta attribute="class-description">
+			This class contains Airline details.
+		</meta>
+
+		<id name="fID" type="int" column="fID">
+			<generator class="increment"/>
+		</id>
+	
+		<property name="duration" column="duration" type="int"/>
+		<property name="departureDate" column="departureDate" type="date"/>
+		<property name="price" column="price" type="int"/>
+		<property name="seatsAvailable" column="seatsAvailable" type="int"/>
+		<property name="updatedOn" column="updatedOn" type="date"/>
+		
+		<set name="manifest" table="trip" cascade="save-update" lazy="true" fetch="select">
+			<key column="fID" />
+			<many-to-many column="uID" class="edu.sjsu.cs157a.models.User" />
+		</set>
+		
+		<many-to-one name = "departure" column="departure" unique="true" 
+         class="edu.sjsu.cs157a.models.Airport" not-null="true"/>
+         
+        <many-to-one name = "destination" column="destination" unique="true" 
+         class="edu.sjsu.cs157a.models.Airport" not-null="true"/>
+         
+		
+		<join table="fleet" inverse="true">
+            <key column="internalID"/>
+            <many-to-one name="plane" column="pID" not-null="true"/>
+        </join>
+
+
+	</class>
+</hibernate-mapping>

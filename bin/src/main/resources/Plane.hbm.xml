@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="edu.sjsu.cs157a.models.Plane" table="Plane">
+		<meta attribute="class-description">
+			This class contains Plane details.
+		</meta>
+		
+		<id name="pID" type="int" column="pID">
+			<generator class="increment"></generator>  
+		</id>
+		
+		<natural-id>
+			<property name="manufacturer" column="manufacturer" type="string"/>
+			<property name="model" column="model" type="string"/>
+		</natural-id>
+		
+		<property name="capacity" column="capacity" type="int"/>
+	
+	</class>
+</hibernate-mapping>

@@ -1,0 +1,5 @@
+Riley	Chetwood	rc@gmail.com	pass123	7/2/1993	260019	1
+Luz	Hernandez	lh@gmail.com	pass321	6/28/1994	250093	0
+Harry	Potter	hp@yahoo.com	YerAWizard	7/31/1980	389990	0
+Frodo	Baggins	fb@yahoo.com	HobbitsToIsengrad	7/31/1929	899990	0
+Riley	Chetwood	rileychetwood@gmail.com	59b58c36522ea13ec208582f55a97d988b6eb0adb60b6ee719d1558b6738e3c4	7/2/1993	260019	1

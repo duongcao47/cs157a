@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="edu.sjsu.cs157a.models.Airline" table="Airline">
+		<meta attribute="class-description">
+			This class contains Airline details.
+		</meta>
+
+
+		<id name="alID" type="int" column="alID">
+			<generator class="increment"></generator>
+		</id>
+		
+		<natural-id>
+			<property name="companyName" column="companyName" type="string" />
+		</natural-id>
+
+		<bag name="fleet" table="fleet" cascade="save-update" lazy="true" fetch="select">
+			<key column="alID" />
+			<many-to-many column="pid" class="edu.sjsu.cs157a.models.Plane" />
+		</bag>
+
+		<property name="hq" column="hq" type="string" />
+		<property name="founded" column="founded" type="date" />
+		<property name="icao" column="icao" type="string" />
+
+
+	</class>
+</hibernate-mapping>

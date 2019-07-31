@@ -1,0 +1,15 @@
+# Created at 2019-07-31T09:18:31.237
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2019-07-31T09:18:31.237
+WARNING: Illegal reflective access by com.sun.xml.bind.v2.runtime.reflect.opt.Injector (file:/Users/duong/.m2/repository/com/sun/xml/bind/jaxb-impl/2.2.11/jaxb-impl-2.2.11.jar) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int)
+
+# Created at 2019-07-31T09:18:31.237
+WARNING: Please consider reporting this to the maintainers of com.sun.xml.bind.v2.runtime.reflect.opt.Injector
+
+# Created at 2019-07-31T09:18:31.238
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2019-07-31T09:18:31.238
+WARNING: All illegal access operations will be denied in a future release
+
